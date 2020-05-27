@@ -6,4 +6,6 @@ interests:
   - Lecturer
   - Department of Surgery
 superuser: false
+user_groups:
+  - Staff
 ---
