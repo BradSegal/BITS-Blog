@@ -1,7 +1,7 @@
 ---
 title: Dr. Michael Klipin
 role: Head of Division
-avatar_filename: avatar
+avatar_filename: michael-klipin.jpg
 interests:
   - Lecturer
   - Department of Surgery
