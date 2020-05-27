@@ -17,7 +17,7 @@ hero_media = "logo-stacked.png"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "#0b2c41"
+  #color = "#0b2c41"
   
   # Background gradient.
   # gradient_start = "#4bb4e3"
@@ -26,9 +26,9 @@ hero_media = "logo-stacked.png"
   # Background image.
   image = "logo-horizontal.png"  # Name of image in `static/img/`.
   #image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  #image_size = "contain"  #  Options are `cover` (default), `contain`, or `actual` size.
-  #image_position = "right"  # Options include `left`, `center` (default), or `right`.
-  #image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+  image_size = "contain"  #  Options are `cover` (default), `contain`, or `actual` size.
+  image_position = "right"  # Options include `left`, `center` (default), or `right`.
+  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
   text_color_light = true
