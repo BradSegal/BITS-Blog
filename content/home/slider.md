@@ -22,7 +22,7 @@ height = ""
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#4bb4e3"  # An HTML color value.
+  overlay_color = "#1449f2"  # An HTML color value.
   overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
@@ -38,7 +38,7 @@ height = ""
   title = "DataDoc"
   content = "Next generation electronic health records for South Africa"
   align = "center"  
-  overlay_color = "#4bb4e3"
+  overlay_color = "#1449f2"
   overlay_img = "headers/bubbles-wide.jpg"  
   overlay_filter = 0.5
   cta_label = "Visit DataDoc"
@@ -50,7 +50,7 @@ height = ""
   title = "REDCap"
   content = "Scalable, open-source research informatics"
   align = "center"  
-  overlay_color = "#4bb4e3"
+  overlay_color = "#1449f2"
   overlay_img = "headers/bubbles-wide.jpg"  
   overlay_filter = 0.5
   cta_label = "Visit REDCap"

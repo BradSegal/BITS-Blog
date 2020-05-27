@@ -9,7 +9,7 @@ title = "Biomedical Informatics and Translational Science"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 #hero_media = "hero-academic.png"
-hero_media = "logo-horizontal.png"
+hero_media = "logo-horizontal-light.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
