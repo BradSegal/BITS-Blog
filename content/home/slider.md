@@ -23,7 +23,7 @@ height = ""
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#cee5f5"  # An HTML color value.
-  overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "ED.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
@@ -39,7 +39,7 @@ height = ""
   content = "Next generation electronic health records for South Africa"
   align = "center"  
   overlay_color = "#cee5f5"
-  overlay_img = "headers/bubbles-wide.jpg"  
+  overlay_img = "DataDoc,svg"  
   overlay_filter = 0.5
   cta_label = "Visit DataDoc"
   cta_url = "https://www.ebisu.co.za/"
