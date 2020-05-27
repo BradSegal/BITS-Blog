@@ -3,6 +3,7 @@ role: Biomedical Informatics and Translational Science
 organizations:
   - name: University of the Witwatersrand
     url: ""
+  - name: Wits Health Consortium
 superuser: true
 authors:
   - admin
