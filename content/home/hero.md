@@ -21,8 +21,8 @@ hero_media = "logo-horizontal.png"
   color = "#0b2c41"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  #gradient_start = "#4bb4e3"
+  #gradient_end = "#2b94c3"
   
   # Background image.
   #image = "logo-horizontal.png"  # Name of image in `static/img/`.
